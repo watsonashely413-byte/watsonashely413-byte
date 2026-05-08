@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm [Ashley Watson ] 👋
 
-<!--
-**watsonashely413-byte/watsonashely413-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a web designer and digital strategist focused on the music tech ecosystem. My work involves analyzing user experience patterns and optimizing digital interfaces for better performance and accessibility.
 
-Here are some ideas to get you started:
+### 🚀 What I'm working on
+- **UX Research:** Deep dive into minimalist design for audio platforms.
+- **Performance:** Testing edge delivery to reduce latency in streaming guides.
+- **Live Project:** Implementing these findings at **[SoundifyPremium.com](https://soundifypremium.com)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Tech & Tools
+- Web Design (Kadence & Gutenberg)
+- SEO & Metadata Optimization
+- UX/UI Case Studies (Check my [Behance](https://www.behance.net/ashelywatson)
+
+Let's connect and build a faster, cleaner web!
